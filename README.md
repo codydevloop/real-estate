@@ -93,6 +93,8 @@ MIT License
 
 The following work was done in preparation of hosting this app on other providers (AWS, Google) and then maybe trying my hand at Terraform.
 
+sandbox for AWS deployment: https://github.com/codydevloop/washburn_AWS
+
 1. forked group project: https://github.com/azu20/real-estate
 2. created new Heroku deployment: https://codydevloop-washburn-realestat.herokuapp.com/
 3. created new MongoDB Atlas cluster and connected to app and Heroku
